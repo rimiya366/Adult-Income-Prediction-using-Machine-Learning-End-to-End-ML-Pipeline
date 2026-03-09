@@ -1,2 +1,79 @@
-# Adult-Income-Prediction-using-Machine-Learning-End-to-End-ML-Pipeline
-Machine learning project that predicts whether a person’s income exceeds $50K using demographic and employment data. Built with Python, Pandas, Scikit-learn and deployed with Streamlit.
+# Adult Income Prediction using Machine Learning
+
+## Project Overview
+This project predicts whether a person's annual income exceeds $50K based on demographic and employment-related attributes. 
+The model is trained on the Adult Income dataset and demonstrates an end-to-end machine learning workflow including 
+data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+
+---
+
+## Problem Statement
+Many organizations use predictive analytics to understand income levels based on demographic and employment information. 
+The objective of this project is to build a classification model that can predict whether a person's income is greater than $50K.
+
+---
+
+## Dataset
+Adult Income Dataset
+
+Features include:
+- Age
+- Workclass
+- Education
+- Marital Status
+- Occupation
+- Hours per week
+- Capital gain / loss
+- Native country
+
+Target variable:
+- Income (>50K or <=50K)
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Streamlit
+
+---
+
+## Project Workflow
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Model Deployment
+
+---
+
+## Machine Learning Models Used
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+
+---
+
+## Model Evaluation
+Performance was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+The best performing model achieved approximately **85–87% accuracy**.
+
+---
+## Data Visualization
+
+Exploratory Data Analysis was performed to understand the dataset. 
+Visualizations helped identify patterns between demographic features and income levels.
+
