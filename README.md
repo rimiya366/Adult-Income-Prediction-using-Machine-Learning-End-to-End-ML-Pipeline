@@ -12,6 +12,10 @@ Many organizations use predictive analytics to understand income levels based on
 The objective of this project is to build a classification model that can predict whether a person's income is greater than $50K.
 
 ---
+## Application Demo
+
+![Streamlit App Screenshot](Pictures\Screenshots/income_prediction.png)
+
 
 ## Dataset
 Adult Income Dataset
