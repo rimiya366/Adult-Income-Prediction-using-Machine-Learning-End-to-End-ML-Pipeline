@@ -14,8 +14,7 @@ The objective of this project is to build a classification model that can predic
 ---
 ## Application Demo
 
-![Streamlit App Screenshot](C:\Users\user\Pictures\Screenshots\income_prediction.png)
-
+![Streamlit App Screenshot](screenshots/income_prediction.png)
 
 ## Dataset
 Adult Income Dataset
