@@ -90,5 +90,5 @@ Capital Gain was a strong signal — even small non-zero capital gain values wer
 Exploratory Data Analysis was performed to understand the dataset. 
 Visualizations helped identify patterns between demographic features and income levels.
 
-![Streamlit App Screenshot](income_prediction eda1.png)
+![Streamlit App Screenshot](income_prediction_eda1.png)
 ![Streamlit App Screenshot](income_prediction eda 2.png)
