@@ -46,6 +46,8 @@ Target variable:
 ---
 
 ## Project Workflow
+   Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Evaluation → Deployment
+
 1. Data Collection
 2. Data Cleaning
 3. Exploratory Data Analysis
@@ -75,8 +77,18 @@ Performance was evaluated using:
 The best performing model achieved approximately **85–87% accuracy**.
 
 ---
+
+## Key Insights
+
+Education & Occupation were the strongest predictors of income — individuals with higher education in professional/managerial roles had significantly higher chances of earning >50K
+Age showed a positive correlation with income up to ~45 years, after which it plateaued
+Married individuals (especially Married-civ-spouse) were more likely to earn >50K compared to other marital statuses
+Capital Gain was a strong signal — even small non-zero capital gain values were associated with >50K income
+
 ## Data Visualization
 
 Exploratory Data Analysis was performed to understand the dataset. 
 Visualizations helped identify patterns between demographic features and income levels.
 
+![Streamlit App Screenshot](income_prediction eda1.png)
+![Streamlit App Screenshot](income_prediction eda 2.png)
