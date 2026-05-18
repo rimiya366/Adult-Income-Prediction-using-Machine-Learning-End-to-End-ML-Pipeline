@@ -91,4 +91,7 @@ Exploratory Data Analysis was performed to understand the dataset.
 Visualizations helped identify patterns between demographic features and income levels.
 
 ![Streamlit App Screenshot](income_prediction_eda1.png)
-![Streamlit App Screenshot](income_prediction eda 2.png)
+![Streamlit App Screenshot](income_prediction_eda2.png)
+![Streamlit App Screenshot](income_prediction_eda3.png)
+![Streamlit App Screenshot](income_prediction_eda4.png)
+![Streamlit App Screenshot](income_prediction_eda5.png)
